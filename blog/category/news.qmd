@@ -1,0 +1,8 @@
+---
+title: "News"
+sidebar: blog
+---
+
+This page lists all our news posts.
+
+- [Welcome to Our Blog](../posts/welcome.qmd)

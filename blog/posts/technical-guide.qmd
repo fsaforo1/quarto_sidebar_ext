@@ -1,0 +1,19 @@
+---
+title: "Technical Guide: Getting Started"
+date: "2025-02-01"
+sidebar: blog
+---
+
+This technical guide will help you get started with our tools and frameworks.
+
+## Prerequisites
+
+Before you begin, make sure you have:
+
+- Basic understanding of programming
+- Development environment set up
+- Necessary packages installed
+
+## Step 1: Installation
+
+First, install the required packages...

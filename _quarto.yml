@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "External Sidebar Example"
+  navbar:
+    pinned: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About the Team"
+        href: about/index.qmd
+      - text: "Blog"
+        href: blog/index.qmd
+  sidebar:
+    - id: about
+      title: "About the Team"
+      style: docked
+      background: dark
+      contents:
+        file: sidebar_about.yml
+    - id: blog
+      title: "Blog Posts"
+      style: docked
+      background: light
+      contents:
+        file: sidebar_blog.yml
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+metadata-files:
+  - sidebar_about.yml
+  - sidebar_blog.yml

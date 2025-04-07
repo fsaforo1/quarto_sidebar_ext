@@ -1,0 +1,18 @@
+---
+title: "Welcome to Our Blog"
+date: "2025-01-15"
+sidebar: blog
+---
+
+This is our welcome post. We're excited to share our knowledge and updates with you!
+
+## What to Expect
+
+Our blog will cover various topics including:
+
+- Technical guides
+- Project updates
+- Industry news
+- Tips and tricks
+
+Stay tuned for more content!

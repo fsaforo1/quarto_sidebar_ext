@@ -1,0 +1,6 @@
+---
+title: "About the Team"
+sidebar: about
+---
+
+This is the main about page. The sidebar should appear on the left.

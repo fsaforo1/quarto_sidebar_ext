@@ -1,0 +1,5 @@
+---
+title: "External Sidebar Example"
+---
+
+Welcome to the example site. Go to the [About section](about/index.qmd) to see the sidebar.

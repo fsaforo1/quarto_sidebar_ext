@@ -1,0 +1,6 @@
+---
+title: "Team Member 2"
+sidebar: about
+---
+
+This is the page for team member 2.
