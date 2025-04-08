@@ -13,19 +13,6 @@ website:
         href: about/index.qmd
       - text: "Blog"
         href: blog/index.qmd
-  sidebar:
-    - id: about
-      title: "About the Team"
-      style: docked
-      background: dark
-      contents:
-        file: sidebar_about.yml
-    - id: blog
-      title: "Blog Posts"
-      style: docked
-      background: light
-      contents:
-        file: sidebar_blog.yml
 
 format:
   html:

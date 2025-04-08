@@ -1,8 +1,15 @@
-- section: "Organization"
-  contents: about/index.qmd
-- section: "People"
-  contents:
-    - text: "Team Member 1"
-      href: about/people/member1.qmd
-    - text: "Team Member 2"
-      href: about/people/member2.qmd
+website:
+  sidebar:
+    - id: about
+      title: "About the Team"
+      style: docked
+      background: light
+      contents:
+        - section: "Organization"
+          contents: about/index.qmd
+        - section: "People"
+          contents:
+            - text: "Team Member 1"
+              href: about/people/member1.qmd
+            - text: "Team Member 2"
+              href: about/people/member2.qmd

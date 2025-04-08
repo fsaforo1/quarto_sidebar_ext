@@ -1,12 +1,19 @@
-- section: "Recent Posts"
-  contents:
-    - text: "Welcome Post"
-      href: blog/posts/welcome.qmd
-    - text: "Technical Guide"
-      href: blog/posts/technical-guide.qmd
-- section: "Categories"
-  contents:
-    - text: "Tutorials"
-      href: blog/category/tutorials.qmd
-    - text: "News"
-      href: blog/category/news.qmd
+website:
+  sidebar:
+    - id: blog
+      title: "Blog Posts"
+      style: docked
+      background: light
+      contents:
+        - section: "Recent Posts"
+          contents:
+            - text: "Welcome Post"
+              href: blog/posts/welcome.qmd
+            - text: "Technical Guide"
+              href: blog/posts/technical-guide.qmd
+        - section: "Categories"
+          contents:
+            - text: "Tutorials"
+              href: blog/category/tutorials.qmd
+            - text: "News"
+              href: blog/category/news.qmd
