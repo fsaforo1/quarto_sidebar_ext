@@ -17,8 +17,6 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
-    toc: true
 
 metadata-files:
   - sidebar_about.yml
