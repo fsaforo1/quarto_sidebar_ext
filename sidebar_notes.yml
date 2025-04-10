@@ -1,19 +1,19 @@
 website:
   sidebar:
-    - id: blog
-      title: "Blog Posts"
+    - id: notes
+      title: "Notes"
       style: docked
-      background: light
+      background: dark
       contents:
         - section: "Recent Posts"
           contents:
             - text: "Welcome Post"
-              href: blog/posts/welcome.qmd
+              href: notes/posts/welcome.qmd
             - text: "Technical Guide"
-              href: blog/posts/technical-guide.qmd
+              href: notes/posts/technical-guide.qmd
         - section: "Categories"
           contents:
             - text: "Tutorials"
-              href: blog/category/tutorials.qmd
+              href: notes/category/tutorials.qmd
             - text: "News"
-              href: blog/category/news.qmd
+              href: notes/category/news.qmd

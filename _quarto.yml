@@ -3,21 +3,53 @@ project:
   output-dir: _site
 
 website:
-  title: "External Sidebar Example"
+  title: "Sidebar Examples"
+  bread-crumbs: false
   navbar:
     pinned: true
     left:
-      - text: "Home"
-        href: index.qmd
       - text: "About the Team"
         href: about/index.qmd
+      - text: "Notes"
+        href: notes/index.qmd
       - text: "Blog"
         href: blog/index.qmd
+  sidebar:
+    - id: about
+      title: "About the Team"
+      style: docked
+      background: "#377771"
+      contents:
+        - section: "Organization"
+          contents: about/index.qmd
+        - section: "People"
+          contents:
+            - text: "Team Member 1"
+              href: about/people/member1.qmd
+            - text: "Team Member 2"
+              href: about/people/member2.qmd
+    - id: notes
+      title: "Notes"
+      style: docked
+      background: "#283044"
+      contents:
+        - section: "Recent Posts"
+          contents:
+            - text: "Welcome Post"
+              href: notes/posts/welcome.qmd
+            - text: "Technical Guide"
+              href: notes/posts/technical-guide.qmd
+        - section: "Categories"
+          contents:
+            - text: "Tutorials"
+              href: notes/category/tutorials.qmd
+            - text: "News"
+              href: notes/category/news.qmd
 
 format:
   html:
     theme: cosmo
 
-metadata-files:
-  - sidebar_about.yml
-  - sidebar_blog.yml
+# metadata-files:
+#   - sidebar_about.yml
+#   - sidebar_notes.yml

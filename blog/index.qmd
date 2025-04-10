@@ -1,11 +1,23 @@
 ---
 title: "Blog"
-sidebar: blog
+author: ""
+listing:
+  contents:
+    - "**/*.qmd"
+    - "**/*.md"
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, reading-time, image, description, categories]
+  image-align: left
+page-layout: full
+format:
+    html:
+        title-block-banner: false
+comments: false
 ---
 
-Welcome to our blog! Check out our latest posts in the sidebar.
 
-## Latest Posts
-
-- [Welcome Post](posts/welcome.qmd)
-- [Technical Guide](posts/technical-guide.qmd)
+Welcome to the blog

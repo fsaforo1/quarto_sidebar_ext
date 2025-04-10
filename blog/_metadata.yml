@@ -1,0 +1,25 @@
+# Default author
+author:
+  - name: Hey Mister
+
+freeze: true
+
+
+# Add blog-post class to the banner header area
+format: 
+  html:
+    code-tools: false
+    code-fold: true
+
+# Default for table of contents
+toc: true
+toc-title: On this page
+toc-location: left
+
+
+# Default knitr options
+execute:
+  echo: true
+  message: false
+  warning: false
+

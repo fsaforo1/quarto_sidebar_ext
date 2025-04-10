@@ -1,0 +1,46 @@
+---
+title: "Sourdough Baking Adventures"
+author: "Alex Smith"
+date: "2025-04-08"
+categories: [baking, recipes, food]
+---
+
+After months of trial and error, I've finally developed a sourdough recipe that consistently produces the perfect loaf. Here's my process and what I've learned along the way.
+
+## The Secret is in the Starter
+
+A healthy starter is the foundation of great sourdough. I've been maintaining mine (named "Bubbles") for over six months now.
+
+The key to a vibrant starter is regular feedings and consistency in temperature. I keep mine in a warm spot in the kitchen, usually around 75°F (24°C). Every morning, I discard all but 50g and feed it with equal parts flour and water.
+
+## My Reliable Recipe
+
+Below is my go-to recipe that works every time:
+
+| Ingredient | Amount |
+|------------|--------|
+| Bread flour | 400g |
+| Whole wheat flour | 100g |
+| Water | 350g |
+| Active starter | 100g |
+| Salt | 10g |
+
+## Temperature Matters
+
+I've found that controlling fermentation temperature is crucial for predictable results. Here's what I've observed:
+
+- Cold kitchen (below 68°F): expect 5-6 hours for bulk fermentation
+- Moderate temperature (70-75°F): about 4 hours
+- Warm kitchen (above 78°F): as little as 3 hours
+
+Adjusting your timeline based on your kitchen temperature will help achieve consistent results every time.
+
+## Next Baking Project
+
+I'm excited to experiment with ancient grains next month. My shopping list includes:
+
+- Einkorn flour
+- Spelt berries
+- Emmer flour
+
+Stay tuned for more adventures in sourdough baking!

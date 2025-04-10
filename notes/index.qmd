@@ -1,0 +1,11 @@
+---
+title: "notes"
+sidebar: notes
+---
+
+Welcome to our notes! Check out our latest posts in the sidebar.
+
+## Latest notes
+
+- [Welcome Post](posts/welcome.qmd)
+- [Technical Guide](posts/technical-guide.qmd)
